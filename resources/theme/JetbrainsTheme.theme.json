@@ -1,6 +1,6 @@
 {
-  "name": "JetbrainsTheme",
-  "author": "YourCompany",
+  "name": "Peng",
+  "author": "WuChunPeng",
   "dark": true,
 
   "colors": {
@@ -8,6 +8,6 @@
   },
 
   "ui": {
-    "Button.background": "primaryRed"
+    "ToolWindow.background": "#1F2335"
   }
 }
