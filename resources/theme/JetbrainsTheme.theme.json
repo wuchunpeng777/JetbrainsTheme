@@ -382,7 +382,7 @@
     "PackageSearch.SearchResult.PackageTag.hoverBackground": "ErrorPink",
     "PackageSearch.SearchResult.PackageTag.selectedBackground": "ErrorPink",
     "PackageSearch.SearchResult.PackageTag.selectedForeground": "ErrorPink",
-    "Panel.background": "ErrorPink",
+    "Panel.background": "Background",
     "Panel.foreground": "NormalText",
     "ParameterInfo.background": "ErrorPink",
     "ParameterInfo.currentParameterForeground": "ErrorPink",
