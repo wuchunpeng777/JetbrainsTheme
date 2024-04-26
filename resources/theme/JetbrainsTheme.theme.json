@@ -272,7 +272,7 @@
     "List.selectionInactiveForeground": "ErrorPink",
     "MainMenu.background": "Background",
     "MainMenu.foreground": "NormalText",
-    "MainToolbar.background": "ErrorPink",
+    "MainToolbar.background": "SelectionGreen",
     "MainToolbar.Dropdown.background": "ErrorPink",
     "MainToolbar.Dropdown.hoverBackground": "ErrorPink",
     "MainToolbar.Dropdown.pressedBackground": "ErrorPink",
