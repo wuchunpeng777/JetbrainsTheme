@@ -4,6 +4,7 @@
   "dark": true,
 
   "colors": {
+    "HighlightGreen": "#04d504",
     "SelectionGreen": "#006d16",
     "ErrorPink": "#c100ff",
     "UnSelectionGreen": "#025011",
@@ -141,7 +142,7 @@
     "DefaultTabs.background": "ErrorPink",
     "DefaultTabs.hoverBackground": "UnSelectionGreen",
     "DefaultTabs.inactiveUnderlineColor": "UnSelectionGreen",
-    "DefaultTabs.underlineColor": "SelectionGreen",
+    "DefaultTabs.underlineColor": "HighlightGreen",
     "desktop": "ErrorPink",
     "Desktop.background": "ErrorPink",
     "DesktopIcon.borderColor": "Border",
