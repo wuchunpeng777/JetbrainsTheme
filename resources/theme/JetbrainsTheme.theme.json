@@ -10,6 +10,7 @@
     "UnSelectionGreen": "#025011",
     "NormalText": "#A0A7B4",
     "Border": "#3b423e",
+    "BorderGreen" : "#00ff00",
     "Background": "#282c34",
     "Shadow": "#ffd700",
     "LightBackground": "#343a44"
@@ -663,7 +664,7 @@
     "ToolBar.light": "ErrorPink",
     "ToolBar.shadow": "Shadow",
     "Tooltip.Actions.background": "ErrorPink",
-    "ToolTip.background": "ErrorPink",
+    "ToolTip.background": "LightBackground",
     "Tooltip.background": "ErrorPink",
     "ToolTip.foreground": "NormalText",
     "Tooltip.foreground": "NormalText",
