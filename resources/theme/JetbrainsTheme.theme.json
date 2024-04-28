@@ -272,7 +272,7 @@
     "List.dropCellBackground": "#d2e9ff",
     "List.dropLineColor": "#6382bf",
     "List.foreground": "#abb2bf",
-    "List.selectionBackground": "#4d78cc",
+    "List.selectionBackground": "SelectionGreen",
     "List.selectionForeground": "#ffffff",
     "MainMenu.background": "#21252b",
     "MainMenu.foreground": "#abb2bf",
