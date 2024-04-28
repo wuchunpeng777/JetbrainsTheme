@@ -419,7 +419,7 @@
     "Plugins.tagForeground": "ErrorPink",
     "Popup.Advertiser.borderColor": "Border",
     "Popup.Advertiser.foreground": "NormalText",
-    "Popup.background": "ErrorPink",
+    "Popup.background": "Background",
     "Popup.borderColor": "Border",
     "Popup.Header.activeBackground": "ErrorPink",
     "Popup.Header.inactiveBackground": "ErrorPink",
