@@ -8,9 +8,10 @@
     "ErrorPink": "#c100ff",
     "UnSelectionGreen": "#025011",
     "NormalText": "#A0A7B4",
-    "Border": "#434b45",
+    "Border": "#3b423e",
     "Background": "#282c34",
-    "Shadow": "#ffd700"
+    "Shadow": "#ffd700",
+    "LightBackground": "#343a44"
   },
 
   "ui": {
@@ -678,7 +679,7 @@
     "ToolWindow.Button.selectedBackground": "ErrorPink",
     "ToolWindow.Button.selectedForeground": "ErrorPink",
     "ToolWindow.Header.background": "ErrorPink",
-    "ToolWindow.Header.inactiveBackground": "ErrorPink",
+    "ToolWindow.Header.inactiveBackground": "LightBackground",
     "ToolWindow.HeaderCloseButton.background": "ErrorPink",
     "ToolWindow.HeaderTab.hoverBackground": "ErrorPink",
     "ToolWindow.HeaderTab.hoverInactiveBackground": "ErrorPink",
