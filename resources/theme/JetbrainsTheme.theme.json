@@ -280,7 +280,7 @@
     "MainToolbar.Dropdown.background": "#21252b",
     "MainToolbar.Dropdown.hoverBackground": "#3d424b",
     "MainToolbar.Dropdown.pressedBackground": "#4c5052",
-    "MainToolbar.Dropdown.transparentHoverBackground": "#ffffff",
+    "MainToolbar.Dropdown.transparentHoverBackground": "SelectionGreen",
     "MainToolbar.foreground": "#abb2bf",
     "MainToolbar.Icon.background": "#21252b",
     "MainToolbar.Icon.hoverBackground": "#4c5052",
