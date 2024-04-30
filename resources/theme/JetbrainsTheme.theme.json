@@ -13,7 +13,8 @@
     "BorderGreen" : "#00ff00",
     "Background": "#20252C",
     "Shadow": "#ffd700",
-    "LightBackground": "#343a44"
+    "LightBackground": "#343a44",
+    "HeaderGreen": "#3f4f3f"
   },
 
 
@@ -124,7 +125,7 @@
     "CompletionPopup.matchForeground": "#568af2",
     "CompletionPopup.selectionBackground": "SelectionGreen",
     "CompletionPopup.selectionInactiveBackground": "SelectionGreen",
-    "ComplexPopup.Header.background": "#21252b",
+    "ComplexPopup.Header.background": "HeaderGreen",
     "Component.borderColor": "#333841",
     "Component.disabledBorderColor": "#2d3137",
     "Component.errorFocusColor": "#802d43",
