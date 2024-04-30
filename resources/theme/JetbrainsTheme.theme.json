@@ -402,7 +402,7 @@
     "Plugins.Button.updateForeground": "#ffffff",
     "Plugins.disabledForeground": "#5c6370",
     "Plugins.hoverBackground": "#323844",
-    "Plugins.lightSelectionBackground": "#323844",
+    "Plugins.lightSelectionBackground": "UnSelectionGreen",
     "Plugins.SearchField.background": "#282c34",
     "Plugins.SearchField.borderColor": "#1b1d21",
     "Plugins.SectionHeader.background": "#414855",
