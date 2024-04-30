@@ -608,7 +608,7 @@
     "Table.focusCellForeground": "#abb2bf",
     "Table.foreground": "#abb2bf",
     "Table.gridColor": "#5c6370",
-    "Table.lightSelectionBackground": "#414855",
+    "Table.lightSelectionBackground": "UnSelectionGreen",
     "Table.lightSelectionForeground": "#abb2bf",
     "Table.lightSelectionInactiveBackground": "#323844",
     "Table.lightSelectionInactiveForeground": "#abb2bf",
