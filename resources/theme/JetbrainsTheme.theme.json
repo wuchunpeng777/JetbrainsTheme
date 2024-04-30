@@ -598,7 +598,7 @@
     "TabbedPane.selectHighlight": "#ffffff",
     "TabbedPane.shadow": "#b8cfe5",
     "TabbedPane.tabAreaBackground": "#dadada",
-    "TabbedPane.underlineColor": "#568af2",
+    "TabbedPane.underlineColor": "HighlightGreen",
     "TabbedPane.unselectedBackground": "#eeeeee",
     "Table.background": "#282c34",
     "Table.dropCellBackground": "#d2e9ff",
