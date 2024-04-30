@@ -130,7 +130,7 @@
     "Component.disabledBorderColor": "#2d3137",
     "Component.errorFocusColor": "#802d43",
     "Component.focusColor": "#21252b",
-    "Component.focusedBorderColor": "#568af2",
+    "Component.focusedBorderColor": "SelectionGreen",
     "Component.inactiveErrorFocusColor": "#522530",
     "Component.inactiveWarningFocusColor": "#47441f",
     "Component.infoForeground": "#5c6370",
